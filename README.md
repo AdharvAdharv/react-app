@@ -1,4 +1,4 @@
-🔥 React App
+# React App
 
 A simple and interactive React.js project featuring a tabbed UI for displaying key React concepts.
 
@@ -24,7 +24,7 @@ A simple and interactive React.js project featuring a tabbed UI for displaying k
 ├── 📄 package.json
 ├── 📄 README.md
 
-🛠 Installation & Setup
+## 🛠 Installation & Setup
 
 🔵 Clone the Repository:
 
@@ -46,7 +46,7 @@ npm start
 
 📌 The application will be available at http://localhost:3000/
 
-🛠 Technologies Used
+## 🛠 Technologies Used
 
 ⚛️ React.js
 
@@ -54,9 +54,5 @@ npm start
 
 🚀 JavaScript (ES6+)
 
-📜 License
 
-This project is licensed under the MIT License.
-
-💡 Feel free to contribute, improve, or use this project as a reference! 🎉
 
