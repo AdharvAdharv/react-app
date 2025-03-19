@@ -2,12 +2,13 @@
 
 A simple and interactive React.js project featuring a tabbed UI for displaying key React concepts.
 
-🌟 Features
+## 🌟 Features
 
-🔵 Interactive tabbed navigation.
-🔵 Dynamic content rendering based on selected tab
-🔵 Modern and responsive UI with CSS
-🔵 Utilizes React state (useState) for seamless tab switching
+🔵 Interactive tabbed navigation  
+🔵 Dynamic content rendering based on selected tab  
+🔵 Modern and responsive UI with CSS  
+🔵 Utilizes React state (`useState`) for seamless tab switching  
+
 
 📂 Project Structure
 
