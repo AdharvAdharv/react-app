@@ -1,13 +1,13 @@
-🚀 React App
+🔥 React App
 
 A simple and interactive React.js project featuring a tabbed UI for displaying key React concepts.
 
-✨ Features
+🌟 Features
 
-✅ Interactive tabbed navigation
-✅ Dynamic content rendering based on selected tab
-✅ Modern and responsive UI with CSS
-✅ Utilizes React state (useState) for seamless tab switching
+🔵 Interactive tabbed navigation
+🔵 Dynamic content rendering based on selected tab
+🔵 Modern and responsive UI with CSS
+🔵 Utilizes React state (useState) for seamless tab switching
 
 📂 Project Structure
 
@@ -24,17 +24,17 @@ A simple and interactive React.js project featuring a tabbed UI for displaying k
 ├── 📄 package.json
 ├── 📄 README.md
 
-🛠️ Installation & Setup
+🛠 Installation & Setup
 
-1️⃣ Clone the Repository:
+🔵 Clone the Repository:
 
 git clone <repository-url>
 
-2️⃣ Navigate to the Project Directory:
+🔵 Navigate to the Project Directory:
 
 cd react-app
 
-3️⃣ Install Dependencies:
+🔵 Install Dependencies:
 
 npm install
 
@@ -46,10 +46,17 @@ npm start
 
 📌 The application will be available at http://localhost:3000/
 
-🛠️ Technologies Used
+🛠 Technologies Used
 
 ⚛️ React.js
 
 🎨 HTML & CSS
 
 🚀 JavaScript (ES6+)
+
+📜 License
+
+This project is licensed under the MIT License.
+
+💡 Feel free to contribute, improve, or use this project as a reference! 🎉
+
