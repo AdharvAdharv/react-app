@@ -4,9 +4,9 @@ A simple and interactive React.js project featuring a tabbed UI for displaying k
 
 🌟 Features
 
-🔵 Interactive tabbed navigation
-🔵 Dynamic content rendering based on selected tab
-🔵 Modern and responsive UI with CSS
+🔵 Interactive tabbed navigation/
+🔵 Dynamic content rendering based on selected tab/
+🔵 Modern and responsive UI with CSS/
 🔵 Utilizes React state (useState) for seamless tab switching
 
 📂 Project Structure
