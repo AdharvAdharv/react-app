@@ -10,7 +10,7 @@ A simple and interactive React.js project featuring a tabbed UI for displaying k
 🔵 Utilizes React state (`useState`) for seamless tab switching  
 
 
-📂 Project Structure
+## 📂 Project Structure
 
 📁 react-app/
 ├── 📁 public
